@@ -182,19 +182,21 @@ Accepts serialized workflow JSON, returns step-by-step execution log:
 - Undo/Redo history
 - MiniMap and zoom controls
 - Validation errors shown on nodes
-- Clear all canvas action
+- **Dark/Light Theme Toggle** (Ivory & Donkey Brown / Space Black & Neon Coral)
+- **Interactive WebGL Backgrounds** (PlasmaWave & Iridescence)
+- **Custom Branded Toast Notification** for destructive actions
+- **Enhanced Glassmorphism UI** with high-fidelity Backdrop Blurs
 
 ### 🔮 Future Enhancements (With More Time)
 - Node version history
 - Conditional branching (if/else paths)
 - Collaborative editing (WebSocket)
-- Backend persistence (PostgreSQL)
+- Backend persistence (Server-side & PostgreSQL)
 - Role-based access control
 - Workflow scheduling/triggers
 - Real-time notifications
 - Advanced analytics dashboard
-- Dark/Light theme toggle
-- Mobile-responsive canvas
+- Full Mobile-responsive canvas (Optimized Touch Support)
 
 ---
 
